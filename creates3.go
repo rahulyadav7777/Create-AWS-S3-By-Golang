@@ -11,8 +11,8 @@ import (
 
 func main() {
 	// Set your AWS credentials (replace these with your own credentials or use environment variables).
-	awsAccessKey := "AKIAZQ3DTBCIU3SQK4FR"
-	awsSecretKey := "JSFWFqa5amEqcWa59xmNsGptKA1Zf2WGcmq4eFMo"
+	awsAccessKey := "xxxxxxxxxxxx"
+	awsSecretKey := "xxxxxxxxxxxxxxxxxxxxx"
 	awsRegion := "us-east-1" // Replace with your preferred AWS region.
 
 	// Create a new AWS session.
